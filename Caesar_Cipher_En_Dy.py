@@ -55,4 +55,15 @@ elif user_input == 'dec':
     text = input("Enter the text to decrypt: ")
     plaintext = decrypt(text, key)
     print(f"PLAINTEXT: {plaintext}")
+
+
+'''
+Support On
+
+LinkedIn = https://www.linkedin.com/in/abinash-kumar-sinha-318331250
+GitHub = https://github.com/Abinash141
+
+
+Thank You
+'''
  
